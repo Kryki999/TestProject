@@ -4,3 +4,4 @@ A dobra o to chodzi :).
 Jak dodać tekst do nowej lini?  
 \r Może teraz zadziała?
 \n A teraz?
+Nastepna Zmiana
